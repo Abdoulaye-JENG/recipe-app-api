@@ -24,7 +24,7 @@ class UserAdmin(BaseUserAdmin):
                     "password2",
                     "name",
                     "is_active",
-                    "is_staff", 
+                    "is_staff",
                     "is_superuser",
                 ),
             },
